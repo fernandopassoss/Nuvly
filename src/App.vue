@@ -1,5 +1,5 @@
 <template>
-  <h1 class="text-3xl font-bold underline">
-    Olá mundo
-  </h1>
+    <div id="app">
+        <router-view/>
+    </div>
 </template>
